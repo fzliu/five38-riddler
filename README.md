@@ -8,5 +8,6 @@ I may skip some weeks due to a busy work schedule, or if the problems are intrac
 
 # Past Riddlers
 
-<a href="https://frankzliu.com/the-riddler-2017-07-21-edition/">2017-07-21</a><br />
-<a href="https://frankzliu.com/the-riddler-2017-07-28-edition/">2017-07-28</a>
+<a href="https://frankzliu.com/the-riddler-2017-08-04-edition/">2017-08-04</a><br />
+<a href="https://frankzliu.com/the-riddler-2017-07-28-edition/">2017-07-28</a><br />
+<a href="https://frankzliu.com/the-riddler-2017-07-21-edition/">2017-07-21</a>
