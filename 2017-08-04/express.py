@@ -11,7 +11,7 @@ def simulate(n_kids):
 
     # create array to track kids + teacher
     had_potato = np.zeros(n_kids + 1, dtype=np.bool)
-    pos = n_kids / 2
+    pos = n_kids // 2
 
     # move the position by either -1 or 1 until complete
     while np.sum(had_potato) < n_kids:
